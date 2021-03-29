@@ -1172,7 +1172,7 @@ class _MyAppState extends State<MyApp> {
                 ),
               ),
                SizedBox(
-                height: 20,
+                height: 50,
               ),
               OutlinedButton.icon(
                 icon: Icon(Icons.refresh),
