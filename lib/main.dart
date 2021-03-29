@@ -1399,6 +1399,7 @@ class _MyAppState extends State<MyApp> {
       heightM = 0;
       weightKg = 0;
       waistCircumferenceM = 0;
+      Fluttertoast.cancel();
       age = -1;
       
     });
