@@ -1396,11 +1396,13 @@ class _MyAppState extends State<MyApp> {
       weightTextEditingController.text = "";
       waistCircumferenceTextEditingController.text = "";
       absi = 0;
+      absiZ=0;
       heightM = 0;
       weightKg = 0;
       waistCircumferenceM = 0;
       Fluttertoast.cancel();
       age = -1;
+      
       
     });
   }
